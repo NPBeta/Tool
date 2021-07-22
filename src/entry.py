@@ -148,5 +148,5 @@ class Entry:
             print(e)
             print(traceback.format_exc())
 
-        if not inDevelopment and not isHashMode:
-            input(f'任意键退出..')
+        # if not inDevelopment and not isHashMode:
+        #     input(f'任意键退出..')

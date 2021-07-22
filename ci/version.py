@@ -1,7 +1,7 @@
 import sys
 
 productName = 'UtilityTool'
-productVersion = '3.0.1'
+productVersion = '3.0.1-m'
 
 
 if __name__ == "__main__":
